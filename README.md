@@ -38,11 +38,11 @@ npm install -g ember-cli`
 ## Addons and community projects to browse for issues
 Maintainers of these addons have specially volunteered to curate some issues and guide new contributors.
 
-- [ember-changeset](https://github.com/poteto/ember-changeset) - checks new objects for validity
-- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations) - a library to validate user form entries
-- [qunit-dom](https://github.com/simplabs/qunit-dom) - DOM assertions for testing
-- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - see how good your test suite is
-- [html-next](https://github.com/html-next) - a collection of addons focused on performance and rendering
+- [ember-changeset](https://github.com/poteto/ember-changeset) - checks new objects for validity (nucleartide)
+- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations) - a library to validate user form entries (nucleartide)
+- [qunit-dom](https://github.com/simplabs/qunit-dom) - DOM assertions for testing (Tobias Bieniek)
+- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - see how good your test suite is (Robert Wagner)
+- [html-next](https://github.com/html-next) - a collection of addons focused on performance and rendering (Robert Wagner)
 
 ## Help Wanted and Good First Contribution Issues
 We’ve asked the maintainers of many ember projects to use the “good first issue” label to show which issues they’d like help on during the workshop. Again, you are welcome to choose any issue/project, but if you need ideas, click here to browse all of them! You might also want to search for “help wanted” issues.
