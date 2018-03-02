@@ -2,6 +2,7 @@
 Materials and resources for the Contributors Workshop on March 12th, 2018 at EmberConf
 
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
+
 Learn how to get started in Open Source in [this video](https://www.youtube.com/watch?v=FgqXdsK6ohE)!
 
 ## Quick links
