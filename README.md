@@ -1,9 +1,9 @@
 # emberjs-contributors-workshop
-Materials and resources for the Contributors Workshop on March 12th, 2018 at EmberConf
+Follow these instructions so that you are prepared for the Contributors Workshop on March 12th, 2018 at EmberConf!
+
+Learn how to get started in Open Source and get to know your facilitators in [this video](https://www.youtube.com/watch?v=FgqXdsK6ohE):
 
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
-
-Learn how to get started in Open Source in [this video](https://www.youtube.com/watch?v=FgqXdsK6ohE)!
 
 ## Quick links
 - [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) - your facilitators are @locks and @jenweber. The workshop channel is called #conf-workshop. Please join us!
