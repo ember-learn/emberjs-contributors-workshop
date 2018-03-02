@@ -1,6 +1,14 @@
+# Alternatives to running a project locally
+If you are unable to get the guides or website running on your computer,
+you can use an online VM/IDE to test out your work.
+
 ## Using cloud9
-Visit [cloud9](cloud9) and log in with the credentials provided by your
+Visit [AWS Cloud9](https://console.aws.amazon.com/) and log in with the credentials provided by your
 workshop leaders.
+
+Once you are logged in, visit 
+[https://us-east-2.console.aws.amazon.com/cloud9/home/shared](https://us-east-2.console.aws.amazon.com/cloud9/home/shared)
+and select the instance that matches your username.
 
 You will find the guides and website pre-installed. You should fork the
 repositories. For each fork of the repository, copy the cloning url:
