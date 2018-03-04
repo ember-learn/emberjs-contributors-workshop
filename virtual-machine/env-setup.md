@@ -1,6 +1,8 @@
 # Alternatives to running a project locally
-If you are unable to get the guides or website running on your computer,
-you can use an online VM/IDE to test out your work.
+If you are unable to get the guides or website running on your computer, you can use an online VM/IDE to test out your work.
+Note that since Cloud9 environments are accessible by admins, no secrets/passwords/etc should be saved in them. 
+Commit and push often! Cloud9 does not guarantee that instance state will be saved, and instances will be destroyed
+24h after the workshop unless you have made special requests.
 
 ## Using cloud9
 Visit [AWS Cloud9](https://console.aws.amazon.com/) and log in with the credentials provided by your
