@@ -24,6 +24,7 @@ not make any guarantees about persistance across time.
 
 ### Install dependencies and start the server
 ```
+gem install bundler
 bundle install
 bundle exec middleman -p 8080
 ```
