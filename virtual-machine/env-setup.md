@@ -36,6 +36,12 @@ In the right hand corner is a button to expand into a new window.
 These scripts below can be used to create dev environments for the website and 
 guides.
 
+To do Cloud9 the "right way", follow 
+[these instructions](https://docs.aws.amazon.com/cloud9/latest/user-guide/get-started.html) 
+to create a limited-access admin user, IAM policies, users, and workspace. Then
+create a project and open it in the IDE. Once you have set up a project, use the 
+"share" button in the IDE to add a user to it.
+
 ### Set up a new dev env
 
 Copy and paste this entire block into the command line. Enter "yes" to any prompts.
@@ -44,7 +50,7 @@ Copy and paste this entire block into the command line. Enter "yes" to any promp
 rvm implode
 ```
 
-Then,
+Then copy and paste into the command line:
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
 export NVM_DIR="$HOME/.nvm"
