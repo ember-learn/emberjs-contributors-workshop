@@ -8,7 +8,7 @@ Learn how to get started in Open Source and get to know your facilitators in [th
 ## Quick links
 - [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) - your facilitators are @locks and @jenweber. The workshop channel is called #conf-workshop. Please join us!
 - [Pre-workshop survey](https://tilde.wufoo.com/forms/p12e9bep09a1yoa/) - please fill this out today
-- [Post-workshop feedback form](https://tilde.wufoo.com/forms/png9ogu0w645f2/) - for later
+- [Post-workshop feedback form](https://tilde.wufoo.com/forms/feedback-emberconf-2018-contributors-workshop/) - for later
 - [Conference schedule](https://emberconf.com/schedule.html#contributors-workshop)
 
 ## Pre-Work for EmberConf Contributor's Workshop
