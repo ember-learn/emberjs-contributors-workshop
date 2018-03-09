@@ -4,7 +4,7 @@ Thanks for volunteering! This workshop is only possible with community support. 
 
 **Optional pre-workshop gathering**: If you can, please join us on Sunday, March 10th. Time and location are provided by email. We’ll talk through any final questions, curate some more issues, and then maybe go get real Portland food somewhere. If you're arriving later in the evening, updates will be posted in the #conf-workshop channel on Slack.
 
-**When to arrive**:  Arrive at 8am. We’ll go over any final details and provide some breakfast food/coffee. The workshop starts at 9am, so we expect attendees will begin arriving around 8:30. The workshop begins at 9.
+**When to arrive**:  Arrive at 8:30am. We’ll go over any final details and provide some breakfast food/coffee. The workshop starts at 9am, so we expect attendees will begin arriving around 8:30.
 
 **Who to contact if you have questions, get lost, etc**: @locks and @jenweber via Slack. Jen's cell is provided via email.
 
