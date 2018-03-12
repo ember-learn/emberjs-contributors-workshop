@@ -39,6 +39,7 @@ community projects. However, here are some repositories to get you started:
 - [ember-api-docs](https://github.com/ember-learn/ember-api-docs) - the app that displays the documentation found in ember.js core code
 - [deprecation-app](https://github.com/ember-learn/deprecation-app) - an app that gives Ember's users
 information about how to overcome deprecations.
+- [builds](https://github.com/ember-learn/builds) - the [builds and releases](https://emberjs.com/builds/release/) section of the website
 - [ember-cli](https://github.com/ember-cli/ember-cli) - home of the best command line tool for a front end framework
 - [ember-cli website and docs](https://github.com/ember-cli/ember-cli.github.io) - help other people use the best cli *
 - [statusboard](https://github.com/ember-learn/statusboard) - shows the status of ongoing Ember ecosystem projects at https://emberjs.com/statusboard/
