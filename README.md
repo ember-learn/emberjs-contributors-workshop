@@ -10,6 +10,7 @@ Learn how to get started in Open Source and get to know your facilitators in [th
 - [Pre-workshop survey](https://tilde.wufoo.com/forms/p12e9bep09a1yoa/) - please fill this out today
 - [Post-workshop feedback form](https://tilde.wufoo.com/forms/feedback-emberconf-2018-contributors-workshop/) - for later
 - [Conference schedule](https://emberconf.com/schedule.html#contributors-workshop)
+- [Contributions dashboard](https://dashboard-44db4.firebaseapp.com/)
 
 ## Pre-Work for EmberConf Contributor's Workshop
 
@@ -45,6 +46,7 @@ information about how to overcome deprecations.
 the current Ruby-based guides application
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide) - a WIP component library to be
 used in Ember's family of webssites
+- [ember-inspector](https://github.com/emberjs/ember-inspector) - the browser extension dev tools for Ember
 
 * optional, but recommended to install Docker to run these locally
 
