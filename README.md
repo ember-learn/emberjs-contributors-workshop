@@ -1,7 +1,17 @@
 # emberjs-contributors-workshop
-Follow these instructions so that you are prepared for the Contributors Workshop on March 12th, 2018 at EmberConf!
+This repository contains resources for you to run your own Ember.js
+Contributor's Workshop, such as slides, participant instructions,
+and survey templates. Please reach out to the authors for advice, 
+assistance, etc. We're here to help.
 
-Learn how to get started in Open Source and get to know your facilitators in [this video](https://www.youtube.com/watch?v=FgqXdsK6ohE):
+Made with :heart: by Jen Weber and Ricardo Mendes. Initially created for
+EmberConf 2018.
+
+# Participant instructions
+
+Follow these instructions so that you are prepared for the Contributors Workshop!
+
+Learn how to get started in Open Source with a quick tutorial in [this video](https://www.youtube.com/watch?v=FgqXdsK6ohE):
 
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
 
@@ -14,7 +24,7 @@ Learn how to get started in Open Source and get to know your facilitators in [th
 
 ## Pre-Work for EmberConf Contributor's Workshop
 
-Hi! Thanks for participating in the EmberConf Contributor’s Workshop! 
+Hi! Thanks for participating in the Ember.js Contributor’s Workshop! 
 
 We only have 3 hours for the event, so help make the most of your time, there are some things you need to do ahead of time. Most attendees should budget at least 2 hours for this and try to do it at least 5-10 days before the event. The facilitators will be best able to help walk you through any issues you encounter if they aren’t last-minute requests. Send any questions or requests for help to @locks and @jenweber on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/)
 
