@@ -1,7 +1,7 @@
 # emberjs-contributors-workshop
 This repository contains resources for you to run your own Ember.js
 Contributor's Workshop, such as slides, participant instructions,
-and survey templates. Please reach out to the authors for advice, 
+and survey templates. Please reach out to the authors for advice,
 assistance, etc. We're here to help.
 
 Made with :heart: by Jen Weber and Ricardo Mendes. Initially created for
@@ -15,18 +15,11 @@ Learn how to get started in Open Source with a quick tutorial in [this video](ht
 
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
 
-## Quick links
-- [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) - your facilitators are @locks and @jenweber. The workshop channel is called #conf-workshop. Please join us!
-- [Pre-workshop survey](https://tilde.wufoo.com/forms/p12e9bep09a1yoa/) - please fill this out today
-- [Post-workshop feedback form](https://tilde.wufoo.com/forms/feedback-emberconf-2018-contributors-workshop/) - for later
-- [Conference schedule](https://emberconf.com/schedule.html#contributors-workshop)
-- [Contributions dashboard](https://dashboard-44db4.firebaseapp.com/)
+## Pre-Work for Contributor's Workshop
 
-## Pre-Work for EmberConf Contributor's Workshop
+Hi! Thanks for participating in the Ember.js Contributor’s Workshop!
 
-Hi! Thanks for participating in the Ember.js Contributor’s Workshop! 
-
-We only have 3 hours for the event, so help make the most of your time, there are some things you need to do ahead of time. Most attendees should budget at least 2 hours for this and try to do it at least 5-10 days before the event. The facilitators will be best able to help walk you through any issues you encounter if they aren’t last-minute requests. Send any questions or requests for help to @locks and @jenweber on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/)
+We only have 3 hours for the event, so help make the most of your time, there are some things you need to do ahead of time. Most attendees should budget at least 2 hours for this and try to do it at least 5-10 days before the event. The facilitators will be best able to help walk you through any issues you encounter if they aren’t last-minute requests. Send any questions or requests for help to @bryanhickerson and @paulcwatts  on the [Ember.js Seattle Community Slack](http://emberjs-seattle.herokuapp.com/)
 
 - Install the latest [stable ember-cli](https://github.com/ember-cli/ember-cli/releases) `npm uninstall -g ember-cli &&
 npm install -g ember-cli`
@@ -76,7 +69,7 @@ We’ve asked the maintainers of many ember projects to use the “good first is
 
 If you want to choose one ahead of the workshop, you can add a comment that says you’d like to work on it.
 
-[Help Wanted Issues]([Help Wanted Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22help+wanted%22&type=Issues&ref=advsearch&l=&l=)
+[Help Wanted Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22help+wanted%22&type=Issues&ref=advsearch&l=&l=)
 
 [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22good+first+issue%22&type=Issues&ref=advsearch&l=&l=)
 
