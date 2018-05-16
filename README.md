@@ -16,25 +16,30 @@ Learn how to get started in Open Source with a quick tutorial in [this video](ht
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
 
 ## Quick links
-- [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) - your facilitators are @locks and @jenweber. The workshop channel is called #conf-workshop. Please join us!
-- [Pre-workshop survey](https://tilde.wufoo.com/forms/p12e9bep09a1yoa/) - please fill this out today
-- [Post-workshop feedback form](https://tilde.wufoo.com/forms/feedback-emberconf-2018-contributors-workshop/) - for later
-- [Conference schedule](https://emberconf.com/schedule.html#contributors-workshop)
-- [Contributions dashboard](https://dashboard-44db4.firebaseapp.com/)
+- [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) to get help from #-team-learning
+- [The Ember.js Times](https://www.emberjs.com/blog/) to see recent calls to action
 
 ## Pre-Work for EmberConf Contributor's Workshop
 
-Hi! Thanks for participating in the Ember.js Contributor’s Workshop! 
+Hi! Thanks for participating in the Ember.js Contributor’s Workshop!
 
-We only have 3 hours for the event, so help make the most of your time, there are some things you need to do ahead of time. Most attendees should budget at least 2 hours for this and try to do it at least 5-10 days before the event. The facilitators will be best able to help walk you through any issues you encounter if they aren’t last-minute requests. Send any questions or requests for help to @locks and @jenweber on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/)
+First of all, contributions come in many forms - writing articles,
+asking questions, opening PRs or Issues, helping other people out - so thank you for whatever you do! 
+
+We only have limited time, so help make the most of your it, there are some things you need to do ahead of time. New contributors should budget an hour to get their developer environment set up,
+and experienced contributors should take some time to look through issues and pick a couple that they migt want to work on.
+
+You can get help or ask questions on the #-team-learning channel on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/).
+One of the things that team does is help contributors get started
+on any part of the Ember ecosystem.
 
 - Install the latest [stable ember-cli](https://github.com/ember-cli/ember-cli/releases) `npm uninstall -g ember-cli &&
 npm install -g ember-cli`
 - Fork, clone, npm install, and test run projects you are interested in. This is essential to do ahead of time. While we hope and pray for the quality internetz, most wifi can’t handle 50 devs cloning and npm installing all at the same time.
 - Browse open issues to form some goals for yourself. See list of repositories and some helpful links below. You can work on anything during the workshop. The list just contains suggestions. Look for
 issues like "help wanted" or "good first issue" to guide your search.
-- Have node, git, and npm installed, and have a GitHub account connected in git. If you need help with these steps, contact the facilitators.
-- If you want to work on the https://emberjs.com [website](https://github.com/emberjs/website) or [The Guides](https://github.com/emberjs/guides), budget some extra time to install Docker or Ruby.
+- Have node, git, and npm installed, and have a GitHub account connected in git. If you need help with these steps, contact the Learning Team or your workshop facilitators.
+- If you want to work on the https://emberjs.com [website](https://github.com/emberjs/website), budget some extra time to install Docker or Ruby.
 - If you are not familiar with Open Source workflows (forking, cloning, opening PRs), try it out in [this practice repository](https://github.com/jenweber/our-open-source-contributions), while following [this article of step-by-step instructions](https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6).
 
 ## Core libraries to browse for issues
@@ -45,7 +50,8 @@ community projects. However, here are some repositories to get you started:
 - [ember.js](https://github.com/emberjs/ember.js) - our favorite framework. Includes both technical and documentation issues
 - [data](https://github.com/emberjs/data) - home of ember-data
 - [ember.js website](https://github.com/emberjs/website) - public website at www.emberjs.com *
-- [The Guides](https://github.com/emberjs/guides) - public website at https://guides.emberjs.com/ *
+- [The Guides Source](https://github.com/ember-learn/guides-source) - the written content for https://guides.emberjs.com/
+- [The Guides App](https://github.com/ember-learn/guides-source) - the Ember app that displays content from the Guides Source
 - [ember-api-docs](https://github.com/ember-learn/ember-api-docs) - the app that displays the documentation found in ember.js core code
 - [deprecation-app](https://github.com/ember-learn/deprecation-app) - an app that gives Ember's users
 information about how to overcome deprecations.
@@ -53,13 +59,9 @@ information about how to overcome deprecations.
 - [ember-cli](https://github.com/ember-cli/ember-cli) - home of the best command line tool for a front end framework
 - [ember-cli website and docs](https://github.com/ember-cli/ember-cli.github.io) - help other people use the best cli *
 - [statusboard](https://github.com/ember-learn/statusboard) - shows the status of ongoing Ember ecosystem projects at https://emberjs.com/statusboard/
-- [guides-app](https://github.com/ember-learn/guides-app) - the WIP app that will eventually replace
-the current Ruby-based guides application
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide) - a WIP component library to be
 used in Ember's family of webssites
 - [ember-inspector](https://github.com/emberjs/ember-inspector) - the browser extension dev tools for Ember
-
-* optional, but recommended to install Docker to run these locally
 
 ## Addons and community projects to browse for issues
 
@@ -81,3 +83,10 @@ If you want to choose one ahead of the workshop, you can add a comment that says
 [Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22good+first+issue%22&type=Issues&ref=advsearch&l=&l=)
 
 [Everything](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset&type=Issues&ref=advsearch&l=&l=)
+
+## After the workshop
+If you need a little help getting something to the finish line,
+or it's been a week and your PR hasn't been reviewed yet,
+just drop by the #-team-learning channel on Slack and let them know. 
+The team is all volunteers, so getting help can take a little time,
+but it's part of the mission! Thanks for your patience!
