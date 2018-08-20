@@ -1,7 +1,7 @@
 # emberjs-contributors-workshop
 This repository contains resources for you to run your own Ember.js
 Contributor's Workshop, such as slides, participant instructions,
-and survey templates. Please reach out to the authors for advice, 
+and survey templates. Please reach out to the authors for advice,
 assistance, etc. We're here to help.
 
 Made with :heart: by Jen Weber and Ricardo Mendes. Initially created for
@@ -78,11 +78,11 @@ We’ve asked the maintainers of many ember projects to use the “good first is
 
 If you want to choose one ahead of the workshop, you can add a comment that says you’d like to work on it.
 
-[Help Wanted Issues]([Help Wanted Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22help+wanted%22&type=Issues&ref=advsearch&l=&l=)
+[Help Wanted Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguides+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22help+wanted%22&type=Issues&ref=advsearch&l=&l=)
 
-[Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22good+first+issue%22&type=Issues&ref=advsearch&l=&l=)
+[Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguides+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22good+first+issue%22&type=Issues&ref=advsearch&l=&l=)
 
-[Everything](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguies+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset&type=Issues&ref=advsearch&l=&l=)
+[Everything](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguides+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset&type=Issues&ref=advsearch&l=&l=)
 
 ## After the workshop
 If you need a little help getting something to the finish line,
