@@ -54,7 +54,8 @@ You are invited to work on issues in any open source projects! However, here are
 
 - [ember.js](https://github.com/emberjs/ember.js) - our favorite framework. Includes both technical and documentation issues
 - [data](https://github.com/emberjs/data) - home of ember-data
-- [ember.js website](https://github.com/emberjs/website) - public website at www.emberjs.com *
+- [ember.js website](https://github.com/emberjs/website) - public website at www.emberjs.com. Written in Ruby.
+- [WIP ember.js website](https://github.com/ember-learn/ember-website) - turning the repo above ^^^ into an Ember app, like it should be
 - [The Guides Source](https://github.com/ember-learn/guides-source) - the written content for https://guides.emberjs.com/
 - [The Guides App](https://github.com/ember-learn/guides-source) - the Ember app that displays content from the Guides Source
 - [ember-api-docs](https://github.com/ember-learn/ember-api-docs) - the app that displays the documentation found in ember.js core code
