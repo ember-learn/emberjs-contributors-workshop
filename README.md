@@ -1,15 +1,20 @@
 # emberjs-contributors-workshop
-This repository contains resources for you to run your own Ember.js
-Contributor's Workshop, such as slides, participant instructions,
+Do you want to become an open source contributor, or help others reach that goal?
+This repository contains resources for you to participate in or run your own Ember.js
+Contributor's Workshop. There are slides, participant instructions,
 and survey templates. Please reach out to the authors for advice,
-assistance, etc. We're here to help.
+assistance, etc. We're here to help. 
 
 Made with :heart: by Jen Weber and Ricardo Mendes. Initially created for
 EmberConf 2018.
 
+Need some quick inspiration? Check out 
+[Sean Massa's 2018 EmberConf talk](https://www.youtube.com/watch?v=CcSKlsc_AhQ&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt&index=22) 
+about the many forms that OSS contributions take.
+
 # Participant instructions
 
-Follow these instructions so that you are prepared for the Contributors Workshop!
+Follow these instructions so that you are prepared for the Contributors Workshop.
 
 Learn how to get started in Open Source with a quick tutorial in [this video](https://www.youtube.com/watch?v=FgqXdsK6ohE):
 
@@ -18,10 +23,11 @@ Learn how to get started in Open Source with a quick tutorial in [this video](ht
 ## Quick links
 - [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) to get help from #-team-learning
 - [The Ember.js Times](https://www.emberjs.com/blog/) to see recent calls to action
+- [Help Wanted dashboard](https://infallible-hermann-2e1071.netlify.com) - An easy way to browse issues that need a volunteer. Early alpha, feedback welcome!
 
 ## Pre-Work for EmberConf Contributor's Workshop
 
-Hi! Thanks for participating in the Ember.js Contributor’s Workshop!
+Hi! Thanks for participating in an Open Source Contributor’s Workshop!
 
 First of all, contributions come in many forms - writing articles,
 asking questions, opening PRs or Issues, helping other people out - so thank you for whatever you do! 
@@ -29,7 +35,7 @@ asking questions, opening PRs or Issues, helping other people out - so thank you
 We only have limited time, so help make the most of your it, there are some things you need to do ahead of time. New contributors should budget an hour to get their developer environment set up,
 and experienced contributors should take some time to look through issues and pick a couple that they migt want to work on.
 
-You can get help or ask questions on the #-team-learning channel on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/).
+You're welcome to work on projects for any programming languages, frameworks, and libraries! If you are working on an Ember project, you can get help or ask questions on the #-team-learning channel on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/).
 One of the things that team does is help contributors get started
 on any part of the Ember ecosystem.
 
@@ -44,8 +50,7 @@ issues like "help wanted" or "good first issue" to guide your search.
 
 ## Core libraries to browse for issues
 
-You are invited to work on issues in any open source project related to Ember, both official and
-community projects. However, here are some repositories to get you started:
+You are invited to work on issues in any open source projects! However, here are some "official" Ember repositories to get you started:
 
 - [ember.js](https://github.com/emberjs/ember.js) - our favorite framework. Includes both technical and documentation issues
 - [data](https://github.com/emberjs/data) - home of ember-data
@@ -65,7 +70,7 @@ used in Ember's family of webssites
 
 ## Addons and community projects to browse for issues
 
-Maintainers of these addons have specially volunteered to curate some issues and guide new contributors.
+Maintainers of these addons have specially asked for help and offered mentorship in the past:
 
 - [ember-changeset](https://github.com/poteto/ember-changeset) - checks new objects for validity (nucleartide)
 - [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations) - a library to validate user form entries (nucleartide)
@@ -75,6 +80,8 @@ Maintainers of these addons have specially volunteered to curate some issues and
 
 ## Help Wanted and Good First Contribution Issues
 We’ve asked the maintainers of many ember projects to use the “good first issue” label to show which issues they’d like help on during the workshop. Again, you are welcome to choose any issue/project, but if you need ideas, click here to browse all of them! You might also want to search for “help wanted” issues.
+
+[@hakilebara](https://github.com/hakilebara) built this handy [Help Wanted dashboard](https://infallible-hermann-2e1071.netlify.com) to help contributors find issues that they can help with. It's in an early alpha, so please share feedback!
 
 If you want to choose one ahead of the workshop, you can add a comment that says you’d like to work on it.
 
