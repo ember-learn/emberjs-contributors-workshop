@@ -21,9 +21,9 @@ Learn how to get started in Open Source with a quick tutorial in [this video](ht
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
 
 ## Quick links
-- [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/) to get help from #-team-learning
+- [Ember.js Chat on Discord](https://emberjs.com/community) to get help from #-team-learning
 - [The Ember.js Times](https://www.emberjs.com/blog/) to see recent calls to action
-- [Help Wanted dashboard](https://infallible-hermann-2e1071.netlify.com) - An easy way to browse issues that need a volunteer. Early alpha, feedback welcome!
+- [Help Wanted dashboard](https://help-wanted.emberjs.com/) - An easy way to browse issues that need a volunteer
 
 ## Pre-Work for EmberConf Contributor's Workshop
 
@@ -35,7 +35,7 @@ asking questions, opening PRs or Issues, helping other people out - so thank you
 We only have limited time, so help make the most of your it, there are some things you need to do ahead of time. New contributors should budget an hour to get their developer environment set up,
 and experienced contributors should take some time to look through issues and pick a couple that they migt want to work on.
 
-You're welcome to work on projects for any programming languages, frameworks, and libraries! If you are working on an Ember project, you can get help or ask questions on the #-team-learning channel on the [Ember.js Community Slack](https://ember-community-slackin.herokuapp.com/).
+You're welcome to work on projects for any programming languages, frameworks, and libraries! If you are working on an Ember project, you can get help or ask questions on the `#dev-ember-learning` channel on the [Ember.js Chat on Discord](https://emberjs.com/community).
 One of the things that team does is help contributors get started
 on any part of the Ember ecosystem.
 
@@ -54,43 +54,32 @@ You are invited to work on issues in any open source projects! However, here are
 
 - [ember.js](https://github.com/emberjs/ember.js) - our favorite framework. Includes both technical and documentation issues
 - [data](https://github.com/emberjs/data) - home of ember-data
-- [ember.js website](https://github.com/emberjs/website) - public website at www.emberjs.com. Written in Ruby.
-- [WIP ember.js website](https://github.com/ember-learn/ember-website) - turning the repo above ^^^ into an Ember app, like it should be
-- [The Guides Source](https://github.com/ember-learn/guides-source) - the written content for https://guides.emberjs.com/
-- [The Guides App](https://github.com/ember-learn/guides-source) - the Ember app that displays content from the Guides Source
+- [ember.js website](https://github.com/ember-learn/ember-website) - public website at www.emberjs.com. Written in Ruby
+- [The Ember.js Guides](https://github.com/ember-learn/guides-source) - the written content for https://guides.emberjs.com/
 - [ember-api-docs](https://github.com/ember-learn/ember-api-docs) - the app that displays the documentation found in ember.js core code
 - [deprecation-app](https://github.com/ember-learn/deprecation-app) - an app that gives Ember's users
 information about how to overcome deprecations.
 - [builds](https://github.com/ember-learn/builds) - the [builds and releases](https://emberjs.com/builds/release/) section of the website
 - [ember-cli](https://github.com/ember-cli/ember-cli) - home of the best command line tool for a front end framework
-- [ember-cli website and docs](https://github.com/ember-cli/ember-cli.github.io) - help other people use the best cli *
+- [ember-cli guides](https://github.com/ember-learn/cli-guides) - help other people use the best cli
 - [statusboard](https://github.com/ember-learn/statusboard) - shows the status of ongoing Ember ecosystem projects at https://emberjs.com/statusboard/
-- [ember-styleguide](https://github.com/ember-learn/ember-styleguide) - a WIP component library to be
-used in Ember's family of webssites
+- [ember-styleguide](https://github.com/ember-learn/ember-styleguide) - the component library
+used in Ember's family of websites. It handles typography, reusable components like callouts, how the navbar looks, and overall styles.
 - [ember-inspector](https://github.com/emberjs/ember-inspector) - the browser extension dev tools for Ember
 
 ## Addons and community projects to browse for issues
 
 Maintainers of these addons have specially asked for help and offered mentorship in the past:
 
-- [ember-changeset](https://github.com/poteto/ember-changeset) - checks new objects for validity (nucleartide)
-- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations) - a library to validate user form entries (nucleartide)
-- [qunit-dom](https://github.com/simplabs/qunit-dom) - DOM assertions for testing (Tobias Bieniek)
-- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - see how good your test suite is (Robert Wagner)
-- [html-next](https://github.com/html-next) - a collection of addons focused on performance and rendering (Robert Wagner)
+TBD!
 
 ## Help Wanted and Good First Contribution Issues
 We’ve asked the maintainers of many ember projects to use the “good first issue” label to show which issues they’d like help on during the workshop. Again, you are welcome to choose any issue/project, but if you need ideas, click here to browse all of them! You might also want to search for “help wanted” issues.
 
-[@hakilebara](https://github.com/hakilebara) built this handy [Help Wanted dashboard](https://infallible-hermann-2e1071.netlify.com) to help contributors find issues that they can help with. It's in an early alpha, so please share feedback!
+Check out the [Help Wanted dashboard](https://help-wanted.emberjs.com/) to browse for issues!
 
 If you want to choose one ahead of the workshop, you can add a comment that says you’d like to work on it.
 
-[Help Wanted Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguides+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22help+wanted%22&type=Issues&ref=advsearch&l=&l=)
-
-[Good First Issues](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguides+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset+label%3A%22good+first+issue%22&type=Issues&ref=advsearch&l=&l=)
-
-[Everything](https://github.com/search?utf8=%E2%9C%93&q=repo%3Aemberjs%2Fember.js+repo%3Aemberjs%2Fdata+repo%3Aemberjs%2Fwebsite+repo%3Aemberjs%2Fguides+repo%3Aember-learn%2Fguides-app+repo%3Aember-learn%2Fguides-source+repo%3Aember-learn%2Fember-jsonapi-docs+repo%3Aember-learn%2Fdeprecations-app+repo%3Asimplabs%2Fqunit-dom+repo%3Aember-learn%2Fstatusboard+repo%3Apoteto%2Fember-changeset-validations+repo%3Apoteto%2Fember-changeset&type=Issues&ref=advsearch&l=&l=)
 
 ## After the workshop
 If you need a little help getting something to the finish line,
