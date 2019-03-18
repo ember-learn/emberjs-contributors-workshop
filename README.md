@@ -80,6 +80,16 @@ Check out the [Help Wanted dashboard](https://help-wanted.emberjs.com/) to brows
 
 If you want to choose one ahead of the workshop, you can add a comment that says you’d like to work on it.
 
+Here are a few issues that we think you might want to check out!
+
+- [Improve docs to the Router Service](https://github.com/emberjs/ember.js/issues/16518) in Ember.js
+- [ember-string](https://github.com/emberjs/ember-string/issues/49) needs some Node work
+- [ember-a11y](https://github.com/ember-a11y) needs help upgrading their addon versions! Open an issue on a repo if you are helping out. Look for issues opened by other people before you get started, so that you don't duplicate efforts.
+- `ember-cli`
+    - https://github.com/ember-cli/ember-cli/issues/8457
+    - https://github.com/ember-cli/ember-cli/issues/8511
+    - https://github.com/simplabs/qunit-dom/pull/46
+
 
 ## After the workshop
 If you need a little help getting something to the finish line,
