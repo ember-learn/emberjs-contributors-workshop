@@ -97,3 +97,5 @@ or it's been a week and your PR hasn't been reviewed yet,
 just drop by the #-team-learning channel on Slack and let them know. 
 The team is all volunteers, so getting help can take a little time,
 but it's part of the mission! Thanks for your patience!
+
+[Feedback form](https://tilde.wufoo.com/forms/kfn8sjt089872v/)
