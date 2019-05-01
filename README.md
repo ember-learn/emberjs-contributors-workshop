@@ -21,8 +21,8 @@ Learn how to get started in Open Source with a quick tutorial in [this video](ht
 [![Alt text](https://img.youtube.com/vi/FgqXdsK6ohE/0.jpg)](https://www.youtube.com/watch?v=FgqXdsK6ohE)
 
 ## Quick links
-- [Ember.js Chat on Discord](https://emberjs.com/community) to get help from #-team-learning
-- [The Ember.js Times](https://www.emberjs.com/blog/) to see recent calls to action
+- [Ember.js Chat on Discord](https://emberjs.com/community) to get help from [#dev-ember-learning](https://discordapp.com/channels/480462759797063690/480777444203429888)
+- [The Ember.js Times](https://blog.emberjs.com/tags/newsletter.html) to see recent calls to action
 - [Help Wanted dashboard](https://help-wanted.emberjs.com/) - An easy way to browse issues that need a volunteer
 
 ## Pre-Work for EmberConf Contributor's Workshop
