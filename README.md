@@ -94,7 +94,7 @@ Here are a few issues that we think you might want to check out!
 ## After the workshop
 If you need a little help getting something to the finish line,
 or it's been a week and your PR hasn't been reviewed yet,
-just drop by the #-team-learning channel on Slack and let them know. 
+just drop by the #-team-learning channel on Discord and let them know. 
 The team is all volunteers, so getting help can take a little time,
 but it's part of the mission! Thanks for your patience!
 
