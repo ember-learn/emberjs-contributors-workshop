@@ -23,7 +23,7 @@ We recommend a 3h format as well as leaving yourself some prep and wind down tim
 
 ## Mentors
 
-1. Prepate issues for the workshop (3h) [BONUS]
+1. Prepare issues for the workshop (3h) [BONUS]
 
 If you can prepare a handful of issues for the contributors to pick up, that is very helpful for everyone.
 Make sure the instructions in the issues are clear and actionable, and that it can reasonably be finished during the workshop.
