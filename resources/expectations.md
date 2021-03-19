@@ -21,6 +21,9 @@ We recommend a 3h format as well as leaving yourself some prep and wind down tim
 
 1. Workshop follow-up (1h)
 
+Send follow up email, including post-workshop survey.
+The goal here is to make sure any contributor that wants to continue contributing and invest more into the community knows how to do so.
+
 ## Mentors
 
 1. Prepare issues for the workshop (3h) [BONUS]
