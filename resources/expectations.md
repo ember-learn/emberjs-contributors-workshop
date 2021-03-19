@@ -7,7 +7,7 @@ This document outlines what is expected from the different roles involved in run
 1. Arranging mentors (5h)
 
 You are responsible for arranging enough mentors to help contributors during the workshop.
-While a ratio of 1 mentor to 1 contributor is unrealistic, we recommend to keep it under 1 mentor to 5 contributors.
+While a ratio of 1 mentor to 1 contributor is unrealistic, we recommend to strive for at least 1 mentor to 5 every contributors.
 
 1. Preparing the introduction material (1h)
 
