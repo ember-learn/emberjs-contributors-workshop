@@ -17,7 +17,7 @@ Once you have hosts and mentors defined you should update the introductory slide
 
 On the day of the actual workshop you should outline the workshop format and introduce the different mentors.
 Then try to keep an eye on people having a hard time participating or finding work to do and try to help out.
-We recomend a 3h format, and that you leave yourself some prep and wind down time.
+We recommend a 3h format as well as leaving yourself some prep and wind down time.
 
 1. Workshop follow-up (1h)
 
