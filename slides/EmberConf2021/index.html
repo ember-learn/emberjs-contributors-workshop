@@ -1,0 +1,307 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+
+    <style>
+      .horizontal,
+      .vertical {
+        display: flex;
+        gap: 2rem;
+      }
+      .vertical {
+        flex-direction: column;
+      }
+      .horizontal > *,
+      .vertical > * {
+        flex: 1;
+      }
+      .left {
+        text-align: left;
+      }
+    </style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown data-background-color="#110b22">
+          <textarea data-template>
+            ## Contributor's Workshop
+            ![EmberConf 2021](assets/emberconf2021.png)
+          </textarea>
+        </section>
+        <section>
+          <div class="horizontal">
+            <div>
+              <img src="assets/host-ricardo.png" alt="" />
+              <h2>Ricardo Mendes</h2>
+            </div>
+            <div class="vertical left" data-markdown>
+              <textarea data-template>
+                ![simplabs](assets/simplabs.png)
+
+                * **Framework** Team
+                * **Learning** Team
+
+                [twitter.com/**locks**](https://twitter.com/locks)
+                [github.com/**locks**](https://github.com/locks)
+              </textarea>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div class="horizontal">
+            <div>
+              <img src="assets/host-ava.jpg" alt="" />
+              <h2>Ava Gaiety Wroten</h2>
+            </div>
+            <div class="vertical left" data-markdown>
+              <textarea data-template>
+                **Accessibility** Strike Team
+
+                [wroten.me](https://www.wroten.me)
+                [github.com/**hergaiety**](https://github.com/hergaitey)
+              </textarea>
+            </div>
+          </div>
+        </section>
+        <section>
+          <div class="horizontal">
+            <div>
+              <h6>Robert Jackson</h6>
+              <img src="assets/mentor-robertjackson.jpg" alt="" />
+            </div>
+            <div>
+              <h6>Edward Faulkner</h6>
+              <img src="assets/mentor-edwardfaulkner.jpeg" alt="" />
+            </div>
+            <div>
+              <h6>Robert Wagner</h6>
+              <img src="assets/mentor-robertwagner.png" alt="" />
+            </div>
+            <div>
+              <h6>Jared Galanis</h6>
+              <img src="assets/mentor-jaredgalanis.jpg" alt="" />
+            </div>
+          </div>
+          <div class="horizontal">
+            <div>
+              <h6>Chris Thoburn</h6>
+              <img src="assets/mentor-christhoburn.png" alt="" />
+            </div>
+            <div>
+              <h6>Nick Schot</h6>
+              <img src="assets/mentor-nickschot.jpg" alt="" />
+            </div>
+            <div>
+              <h6>Igor Terzic</h6>
+              <img src="assets/mentor-igorterzic.jpg" alt="" />
+            </div>
+            <div>
+            </div>
+          </div>
+        </section>
+				<section data-markdown data-background-color="#e04e39">
+          <textarea data-template>
+            ## Outline
+          </textarea>
+        </section>
+				<section data-markdown>
+          <textarea data-template>
+            * How to get involved as a Contributor (15 min)
+            * Q&A (5 mins)
+            * Git commit (2 hours 25 mins)
+            * Wrap up (15 mins)
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#e04e39">
+          <textarea data-template>
+            ## Types of contributions
+          </textarea>
+        </section>
+				<section data-markdown>
+          <textarea data-template>
+            ### Code PRs (Pull Requests)
+            ![](/assets/contributions-code.png)
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### RFCs (Request for Comments)
+            
+            #### [RFC: Official TypeScript support](https://github.com/emberjs/rfcs/pull/724)
+            _Out of the box_ official support for TypeScript in the framework and for the authors of apps and addons.
+
+            ---
+
+            #### [RFC: Query Params as derived data](https://github.com/emberjs/rfcs/pull/712)
+            Part of the path to eventually _deprecate_ Controllers.
+
+            ---
+
+            #### [RFC: DOM Element descriptor interface for test helpers](https://github.com/emberjs/rfcs/pull/726)
+            Bringing page object support closer to the Ember ecosystem.
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### This stuff counts!
+
+            * Articles
+            * Documentation
+            * Infrastructure
+            * DevOps
+            * Q&A
+            * Opening issues
+            * PR reviews
+            * Newsletters
+            * Events
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#e04e39">
+          <textarea data-template>
+            ## Finding Issues
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#110b22">
+          <textarea data-template>
+            ## Ember Help Wanted
+
+            [https://help-wanted.emberjs.com/](https://help-wanted.emberjs.com/)
+
+            ![](/assets/helpwanted.png)
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#110b22">
+          <textarea data-template>
+            ## The Ember.js Times
+
+            [https://blog.emberjs.com/](https://blog.emberjs.com/)
+
+            ![](/assets/emberblog.png)
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### Discord Channels
+
+            * #dev-ember-learning
+            * #dev-rfc
+            * #dev-ember-js
+            * #topic-addon-development
+            * #dev-ember-cli
+            * #help
+
+            [https://discord.gg/emberjs](https://discord.gg/emberjs)
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### Team Meetings
+
+            * **Learning Team** - Thursdays at 3pm UTC
+            * **Ember Data** - Wednesday at 9pm UTC
+            * **Fastboot** - Friday at 3pm UTC
+
+            ---
+
+            meetingzone.app/utc/friday/1500
+            meetingzone.app/utc/friday/2100
+
+            _for local times, respectively_
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### Core Minutes
+
+            [https://github.com/emberjs/core-notes](https://github.com/emberjs/core-notes)
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#e04e39">
+          <textarea data-template>
+            ## What to do?
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### What to do?
+
+            * Commenting on issues
+            * Reproduce bugs/errors
+            * Iterate on ideas
+            * PR quickly
+            * Expect coding iteration
+            * Follow the buddy system!
+          </textarea>
+        </section>
+				<section data-markdown class="left">
+          <textarea data-template>
+            ### What to do? cont.
+
+            * Optional - find a buddy
+            * Choose an issue and comment, OR make and issue and get a volunteer’s review (any repo is fair game!)
+            * Take a break
+            * Get coding/writing!
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#110b22">
+          <textarea data-template>
+            ## Good Luck!
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#e04e39">
+          <textarea data-template>
+            ## Celebrations!
+          </textarea>
+        </section>
+				<section data-markdown>
+          <textarea data-template>
+            ### How did we do?
+          </textarea>
+        </section>
+				<section data-markdown>
+          <textarea data-template>
+            ### What next?
+
+            * [https://emberjs.com/survey](https://emberjs.com/survey) for 2021
+            * @locks#7240 and @Gaiety#0001 on Discord
+            * Be excellent to each other
+          </textarea>
+        </section>
+				<section data-markdown data-background-color="#110b22">
+          <textarea data-template>
+            ## Laters!
+            ![](assets/pridemascots.png)
+          </textarea>
+        </section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
