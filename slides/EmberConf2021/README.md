@@ -2,6 +2,7 @@ Getting started...
 
 1. `cd` into this directory
 2. `npm install`
+2. `npm build`
 3. `npm start`
 4. [Visit the locally served presentation](http://0.0.0.0:8000)
 
