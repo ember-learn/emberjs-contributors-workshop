@@ -16,7 +16,7 @@ When reporting a bug make sure to include information about which browser and op
   - Tabs to indent
   - Single-quoted strings
 - Should be made towards the **dev branch**
-- Should be submitted from a feature/topic branch (not your master)
+- Should be submitted from a feature/topic branch (not from the `main` branch)
 
 
 ### Plugins

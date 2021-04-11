@@ -11,7 +11,7 @@ Thanks for volunteering! This workshop is only possible with community support. 
 **What to bring**:  Your laptop and charger. If you have a spare laptop, bring that too. If someone can’t get their dev env set up, we’d love to have some loaner computers.
 
 ### How to prepare: 
-Please set aside an hour or so to prepare. For each repository you’re familiar with, make sure you have an up to date copy that is able to be run locally. If you are willing to share your laptop as a loaner for attendees who can’t get their dev env set up, we recommend setting up a guest profile on your OS. Make sure that the guest can’t accidentally use your git credentials. Many of us have admin privileges and are one command away from pushing to master.
+Please set aside an hour or so to prepare. For each repository you’re familiar with, make sure you have an up to date copy that is able to be run locally. If you are willing to share your laptop as a loaner for attendees who can’t get their dev env set up, we recommend setting up a guest profile on your OS. Make sure that the guest can’t accidentally use your git credentials. Many of us have admin privileges and are one command away from pushing to the `main` branch.
 
 Additionally, the Emberjs.com website app runs in a ruby dev environment, so you can either set up ruby/middleman or follow the instructions to use Docker. Please try to set it up on your own computer so you can help others with it. The Docker method is strongly recommended. It will not work on Windows.
 
